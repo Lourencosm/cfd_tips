@@ -152,7 +152,7 @@ then let's create a directory to store the shortcuts to the Windows ParaView ver
 
 Type the following commands to create the **ParaView** shortcuts: 
 ```bash
-cd ~/bin_of/pvWin
+cd ~/bin_of/shortcuts
 touch parafoam
 code parafoam
 ```
@@ -174,7 +174,7 @@ Open the file **make_pvWinLinks** with:
 ```bash
 code ~/bin_of/shortcuts/make_pvWinLinks
 ```
-Insert the following text in the **~/bin_of/pvWin/make_pvWinLinks** file:
+Insert the following text in the **~/bin_of/shortcuts/make_pvWinLinks** file:
 ```bash
 #!/bin/bash
 
