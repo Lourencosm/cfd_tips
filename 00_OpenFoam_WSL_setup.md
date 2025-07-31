@@ -38,12 +38,11 @@ by Lourenço Sassetti Mendes
 2. At the Microsoft Store, install **Powershell**
 3. At the Microsoft Store, install **Visual Studio Code**
 4. **ParaView**
-    - Go to [https://www.paraview.org/download/](https://www.paraview.org/download/), and install the latest stable and **MPI** version.  
-E.g. _ParaView-5.13.3-**MPI**-Windows-Python3.10-msvc2017-AMD64.msi_  
-<ins>Note 1:</ins> don't foget to install the **MS-MPI** Windows software, as detailed in the link above.  
-<ins>Note 2:</ins> you can also install the non-MPI version for smaller projects or tests (E.g. < 100k cells).
+    - Go to [https://www.paraview.org/download/](https://www.paraview.org/download/), and install the latest stable version.  
+E.g. _ParaView-5.13.3-Windows-Python3.10-msvc2017-AMD64.msi_  
+<ins>Note 1:</ins> no need to install the MS-MPI version.
 5. (Optional) **Gnuplot**  
-    - **Ubuntu instalation**: It's much easier (I prefer), but requires the Ubunut GUI component (see if it makes sense to you in the **Advanced Ubuntu: Graphical user interface (GUI)** section).  
+    - **Ubuntu instalation**: It's much easier (I prefer), but requires the Ubuntu GUI component (see if it makes sense to you in the **Advanced Ubuntu: Graphical user interface (GUI)** section).  
     - **Windows installation**: Go to [http://www.gnuplot.info/](http://www.gnuplot.info/), go to the [__Download__](http://www.gnuplot.info/download.html) section and install the latest stable version (E.g. __Gnuplot 6.0__). Else, if webpage security issues arise, go directly to [__Sourceforge gnuplot__](https://sourceforge.net/projects/gnuplot/files/gnuplot/) or [__Github gnuplot__](https://sourceforge.net/projects/gnuplot/files/gnuplot/).  
 
 
